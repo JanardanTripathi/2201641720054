@@ -3,7 +3,7 @@
 A simple **URL Shortener Web App** built with **Vite + React**.  
 It allows users to shorten long URLs and integrates with a **custom logging service** to capture frontend logs.
 
----
+--
 
 ## ✨ Features
 - 🔗 Shorten any valid URL using [shrtco.de API](https://shrtco.de/docs/).  
@@ -91,7 +91,8 @@ Then drag & drop the dist/ folder into Netlify.
 
 Or connect your GitHub repo directly to Netlify/Vercel for CI/CD.
 #Result
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b01647c-e8bd-4cdd-8fad-6245436b33b2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba68b8ab-cdcc-45f8-adfc-4877ca0dba85" />
+
 
 📌 Notes
 Make sure your .env file is never pushed to GitHub (it’s ignored in .gitignore).
