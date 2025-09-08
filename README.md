@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e33178f-1d42-4f57-884b-afb40fd7dd78" />
+
 # 🔗 URL Shortener with Logging
 
 A simple **URL Shortener Web App** built with **Vite + React**.  
